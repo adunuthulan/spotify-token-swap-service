@@ -9,3 +9,5 @@ gem "dotenv"
 gem "httparty"
 gem "rspec"
 gem "climate_control"
+
+ruby '2.6.6'
